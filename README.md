@@ -1,5 +1,7 @@
 # MAEF: Multi Attention Edge Fusion Network for infrared sky regions detection
 ========
+![framework](./fig/all.jpg)
+
 
 # Introduction
 Link to article:
